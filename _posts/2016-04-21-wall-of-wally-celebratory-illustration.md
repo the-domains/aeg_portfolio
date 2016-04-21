@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Wall of Wally - celebratory illustration
-datePublished: '2016-04-21T13:30:21.054Z'
-dateModified: '2016-04-21T13:29:48.277Z'
+datePublished: '2016-04-21T13:34:09.273Z'
+dateModified: '2016-04-21T13:33:55.902Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-wall-of-wally-celebratory-illustration.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-wall-of-wally-celebratory-illustration.md
-published: true
 url: wall-of-wally-celebratory-illustration/index.html
 _type: Article
 
