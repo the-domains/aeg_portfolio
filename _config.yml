@@ -1,6 +1,6 @@
 name: aeg_portfolio
 favicon: null
-layout_spectrum: 0.25019
+layout_spectrum: 0.74907
 typography_spectrum: 0.01445
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#00b7c6'
     - '#00527a'
     - '#c3fef3'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
